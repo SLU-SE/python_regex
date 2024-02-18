@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+123 Main Street, Anytown, USA
+Email: example@email.com
+Phone: 555-123-4567
+Regex101 is a useful tool for testing regular expressions.
